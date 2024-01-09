@@ -17,8 +17,8 @@ int Computer::getOZU() const
 void Computer::show()
 {
 	cout << "Name: " << name << endl;
-	cout << "Frequency: " << frequency << "GHz\n";
-	cout << "OZU: " << OZU << "Gb\n";
+	cout << "Frequency: " << frequency << " GHz\n";
+	cout << "OZU: " << OZU << " Gb\n";
 	cout << "DVD: " << DVD << endl;
-	cout << "Cost: " << cost << "UAH\n";
+	cout << "Cost: " << cost << " UAH\n";
 }
